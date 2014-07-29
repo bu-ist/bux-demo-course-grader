@@ -15,3 +15,6 @@ class DummyEvaluator(BaseEvaluator):
             return {"correct": True, "score": 1, "msg": "<p>Nice work!</p>"}
         else:
             return {"correct": False, "score": 0, "msg": "<p>Nice try!</p>"}
+
+    def status(self):
+        return True
