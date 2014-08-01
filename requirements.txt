@@ -1,1 +1,1 @@
--e git+ssh://git@github.com/bu-ist/bux-grader-framework@develop#egg=bux_grader_framework
+git+https://github.com/bu-ist/bux-grader-framework.git@master#egg=bux-grader-framework
